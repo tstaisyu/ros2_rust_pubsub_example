@@ -1,3 +1,0 @@
-[0.000000] (-) TimerEvent: {}
-[0.000305] (-) JobUnselected: {'identifier': 'ros2_rust_pubsub_example'}
-[0.000454] (-) EventReactorShutdown: {}
